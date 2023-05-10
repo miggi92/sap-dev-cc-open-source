@@ -8,11 +8,11 @@ SAP Developer Code Challenge – Open-Source ABAP
 
 ### Timeline
 
-May 10th, 2023 – Start of Challenge: [Week 1 Challenge](#week-1-challenge)
-May 17th, 2023 – Week 2 Challenge will be added
-May 24th, 2023 – Week 3 Challenge will be added
-May 31st, 2023 – Week 4 Challenge will be added
-June 7th, 2023 – End of the challenge
+- May 10th, 2023 – Start of Challenge: [Week 1 Challenge](#week-1-challenge)
+- May 17th, 2023 – Week 2 Challenge will be added
+- May 24th, 2023 – Week 3 Challenge will be added
+- May 31st, 2023 – Week 4 Challenge will be added
+- June 7th, 2023 – End of the challenge
 
 ### Week 1 Challenge
 
