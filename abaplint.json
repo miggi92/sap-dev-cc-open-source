@@ -359,6 +359,7 @@
       "remove_descriptions": {
         "ignoreWorkflow": false,
         "ignoreExceptions": false,
+        "severity": "Info",
         "exclude": ["/json/"]
       },
       "rfc_error_handling": false,

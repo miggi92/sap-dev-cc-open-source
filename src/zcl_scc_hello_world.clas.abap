@@ -6,11 +6,11 @@ CLASS zcl_scc_hello_world DEFINITION
 
   PUBLIC SECTION.
 
-    "!  <p class="shorttext synchronized" lang="en">Get hello world</p>
-    "! @parameter result | <p class="shorttext synchronized" lang="en">Hello world</p>
+    "! <p class="shorttext synchronized" lang="en">Get hello world</p>
+    "! @parameter rv_result | <p class="shorttext synchronized" lang="en">Hello world</p>
     METHODS get_hello_world
       RETURNING
-        VALUE(result) TYPE string.
+        VALUE(rv_result) TYPE string.
   PROTECTED SECTION.
   PRIVATE SECTION.
 
@@ -22,6 +22,6 @@ CLASS zcl_scc_hello_world IMPLEMENTATION.
 
 
   METHOD get_hello_world.
-    result = 'Hello world!'.
+    rv_result = 'Hello world!'.
   ENDMETHOD.
 ENDCLASS.

@@ -30,8 +30,7 @@ CLASS ltcl_hello_world IMPLEMENTATION.
   METHOD test_get_hello_world.
     cl_abap_unit_assert=>assert_equals(
       act                  = mo_instance->get_hello_world( )
-      exp                  = 'Hello world!'
-    ).
+      exp                  = 'Hello world!' ).
   ENDMETHOD.
 
 ENDCLASS.
