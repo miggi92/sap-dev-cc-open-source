@@ -5,8 +5,12 @@ CLASS zcl_scc_hello_world DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-  "!  <p class="shorttext synchronized" lang="en">Write hello world</p>
-    METHODS write_hello_world.
+
+    "!  <p class="shorttext synchronized" lang="en">Get hello world</p>
+    "! @parameter result | <p class="shorttext synchronized" lang="en">Hello world</p>
+    METHODS get_hello_world
+      RETURNING
+        VALUE(result) TYPE string.
   PROTECTED SECTION.
   PRIVATE SECTION.
 
@@ -15,8 +19,9 @@ ENDCLASS.
 
 
 CLASS zcl_scc_hello_world IMPLEMENTATION.
-  METHOD write_hello_world.
-    WRITE 'Hello world'.
-  ENDMETHOD.
 
+
+  METHOD get_hello_world.
+    result = 'Hello world!'.
+  ENDMETHOD.
 ENDCLASS.
