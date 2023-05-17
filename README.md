@@ -24,12 +24,9 @@ SAP Developer Code Challenge – Open-Source ABAP
 
 >For this weeks’ challenge, install the ABAP2IU5 project in your system, and create a program using ABAP2UI5, which throws an input screen with two fields (User and Date), and a button.  When the post button is clicked it should send the values to the server.
 
-[Week 2 Challange](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-2/m-p/260727#M1372)
+[Week 2 Challenge](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-2/m-p/260727#M1372)
 
-<details>
-<summary>View Result</summary>
-![week2 Result](./assets/screenshots/screenshot_week2.png)
-</details>
+![week2 Result](assets/screenshots/screenshot_week2.png)
 
 ### Week 3 Challenge
 
