@@ -26,6 +26,11 @@ SAP Developer Code Challenge – Open-Source ABAP
 
 [Week 2 Challange](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-open-source-abap-week-2/m-p/260727#M1372)
 
+<details>
+<summary>View Result</summary>
+![week2 Result](./assets/screenshots/screenshot_week2.png)
+</details>
+
 ### Week 3 Challenge
 
 
