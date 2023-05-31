@@ -30,6 +30,9 @@ SAP Developer Code Challenge – Open-Source ABAP
 
 ### Week 3 Challenge
 
+>You will get credit for this weeks’ challenge by posting in this discussion thread the working ABAP code (a screen shot of your code, or via a link to your GitHub repo), and showing a screen shot of the output in the console. 
+
+[Week 3 Challenge](https://groups.community.sap.com/t5/application-development/sap-developer-code-challenge-abap-mustache-week-3/m-p/262136#M1479)
 
 
 ### Week 4 Challenge
